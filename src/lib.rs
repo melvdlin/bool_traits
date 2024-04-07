@@ -3,7 +3,7 @@
 
 //! Use boolean expressions as trait bounds.
 //! # Examples
-//! ```
+//! ```rust
 //! #![feature(generic_const_exprs)]
 //!
 //! use bool_traits::*;
