@@ -5,7 +5,7 @@ edition = "2021"
 rust-version = "1.77.0"
 description = "Use boolean expressions as trait bounds."
 license = "MIT"
-documentation = "https://docs.rs/typenum"
+documentation = "https://docs.rs/bool_traits"
 categories = ["no-std", "no-std::no-alloc"]
 keywords = ["trait", "bounds", "generics", "boolean", "expression"]
 
