@@ -1,7 +1,5 @@
 # bool_traits
 
-**bool_traits**
-
 Use boolean expressions as trait bounds.
 
 # Examples
