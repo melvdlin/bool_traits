@@ -1,6 +1,3 @@
-#![no_std]
-#![allow(private_interfaces)]
-
 //! Use boolean expressions as trait bounds.
 //! # Examples
 //! ```rust
@@ -20,6 +17,9 @@
 //! // this does not:
 //! let array = create_small_u8_array::<5>();
 //! ```
+
+#![no_std]
+#![allow(private_interfaces)]
 
 struct Seal;
 
